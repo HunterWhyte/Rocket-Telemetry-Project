@@ -6,7 +6,7 @@ This project involves the use of an arduino nano packed tightly into a rocket wi
 
 This was accomplished mainly using easily available breakout boards for everything from RF serial communication to GPS data collection. These modules were interfaced with an arduino using SPC or I2C serial protocols depending on what was easily implementable for each breakout board. This project was completed in my free time in a couple months while attending high school which is a testament to the ease of use and abundance of helpful documentation and libraries within the Arduino ecosystem.
 
-Footage of succesful telemetry communication:
+Footage of succesful telemetry communication using a python script to display results live:
 
 ![](telemetry.gif)
 

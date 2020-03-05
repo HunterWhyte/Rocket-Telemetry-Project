@@ -6,7 +6,7 @@ This project involves the use of an arduino nano packed tightly into a rocket wi
 
 Footage of succesful telemetry communication:
 ![](telemetry.gif)
-
+![](launch.gif)	
 GPS data plotted in google earth
 
 ![gpsdata](gpsdata.gif)	
@@ -47,3 +47,5 @@ Ground Electronics:
 
 
 [Slideshow presentation for class (Google Slides)](https://docs.google.com/presentation/d/1pYWoD7gOyriHVLa-mrH2qRpS772lOJ7CilTVoHMLk8A/edit?usp=sharing "Powerpoint Presentation for Class (Google Slides)")
+
+Please send me an email huntergwhyte@gmail.com if you want to know more about this project!

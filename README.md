@@ -5,8 +5,11 @@ Summary:
 This project involves the use of an arduino nano packed tightly into a rocket with the goal of using RF transceivers to transmit live GPS and altitude data from the rocket to a ground station. As well as be able to control 4 small brushed motors with propellors mounted on the rocket to control descent and deploy a camera on the rocket using a servo motor to capture footage of the descent. 
 
 Footage of succesful telemetry communication:
+
 ![](telemetry.gif)
+
 ![](launch.gif)	
+
 GPS data plotted in google earth
 
 ![gpsdata](gpsdata.gif)	

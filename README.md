@@ -18,8 +18,11 @@ Rocket Electronics:
  <li>4 Brushed motors + PDB</li>
  <li>Arduino Nano</li>
 </ul>
+
 ![image of rocket sled](full rocket sled.jpg)	
+
 ![footage of brushed motor control working](brushedmotors.gif)	
+
 ![camera on servo deploying](camera on servo.gif)
 
 
@@ -32,6 +35,7 @@ Ground Electronics:
   to give live data of the rocket and save it to a csv</li>
   <li>Arduino Mega</li>
 </ul>
+
 ![](groundtelemetry.jpg)	
 
 

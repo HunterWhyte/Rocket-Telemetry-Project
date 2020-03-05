@@ -19,11 +19,11 @@ Rocket Electronics:
  <li>Arduino Nano</li>
 </ul>
 
-![image of rocket sled](full rocket sled.jpg)	
+![image of rocket sled](fullrocketsled.jpg)	
 
 ![footage of brushed motor control working](brushedmotors.gif)	
 
-![camera on servo deploying](camera on servo.gif)
+![camera on servo deploying](cameraonservo.gif)
 
 
 Ground Electronics:
@@ -39,7 +39,6 @@ Ground Electronics:
 ![](groundtelemetry.jpg)	
 
 
-![](telemetry.gif)
 
 
 

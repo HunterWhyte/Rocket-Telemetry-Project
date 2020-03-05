@@ -18,9 +18,9 @@ Rocket Electronics:
  <li>4 Brushed motors + PDB</li>
  <li>Arduino Nano</li>
 </ul>
-![](full rocket sled.jpg)	
-![](brushedmotors.gif)	
-![](camera on servo.gif)
+![image of rocket sled](full rocket sled.jpg)	
+![footage of brushed motor control working](brushedmotors.gif)	
+![camera on servo deploying](camera on servo.gif)
 
 
 Ground Electronics:

@@ -6,7 +6,8 @@ This project involves the use of an arduino nano packed tightly into a rocket wi
 
 Footage of succesful telemetry communication:
 ![](telemetry.gif)
-
+GPS data plotted in google earth
+![gpsdata](gpsdata.gif)	
 
 Rocket Electronics:
  <li>GPS</li>
@@ -38,7 +39,7 @@ Ground Electronics:
 
 ![](groundtelemetry.jpg)	
 
-![gpsdata](gpsdata.gif)	
+
 
 
 

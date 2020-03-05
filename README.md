@@ -2,7 +2,28 @@
 This project was originally made for my grade 12 physics term project.
 
 Summary:This project involves the use of an arduino nano packed
-  
+ 
+Rocket Electronics:
+
+ <li>GPS</li>
+ <li>9DOF IMU</li>
+ <li>2.4ghz radio</li>
+ <li>3 LiPo batteries</li>
+ <li>Camera + Camera DVR</li>
+ <li>Camera Servo</li>
+ <li>4 Brushed motors + PDB</li>
+ <li>Arduino Nano</li>
+</ul>
+Ground Electronics:
+<ul>
+ <li>2.4ghz radio</li>
+ <li>joystick</li>
+ <li>Connected to Laptop</li>
+ <li>Interfacing with a python program via serial communication 
+  to give live data of the rocket and save it to a csv</li>
+  <li>Arduino Mega</li>
+</ul>
+
 ![](telemetry.gif)
 
 

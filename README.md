@@ -1,10 +1,14 @@
 # Rocket-Telemetry-Project
 This project was originally made for my grade 12 physics term project.
 
-Summary:This project involves the use of an arduino nano packed
- 
-Rocket Electronics:
+Summary: 
+This project involves the use of an arduino nano packed tightly into a rocket with the goal of using RF transceivers to transmit live GPS and altitude data from the rocket to a ground station. As well as be able to control 4 small brushed motors with propellors mounted on the rocket to control descent and deploy a camera on the rocket using a servo motor to capture footage of the descent. 
 
+Footage of succesful telemetry communication:
+![](telemetry.gif)
+
+
+Rocket Electronics:
  <li>GPS</li>
  <li>9DOF IMU</li>
  <li>2.4ghz radio</li>
@@ -14,6 +18,11 @@ Rocket Electronics:
  <li>4 Brushed motors + PDB</li>
  <li>Arduino Nano</li>
 </ul>
+![](full rocket sled.jpg)	
+![](brushedmotors.gif)	
+![](camera on servo.gif)
+
+
 Ground Electronics:
 <ul>
  <li>2.4ghz radio</li>
@@ -23,6 +32,8 @@ Ground Electronics:
   to give live data of the rocket and save it to a csv</li>
   <li>Arduino Mega</li>
 </ul>
+![](groundtelemetry.jpg)	
+
 
 ![](telemetry.gif)
 

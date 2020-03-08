@@ -1,18 +1,18 @@
 # Rocket-Telemetry-Project
 This project was originally made for my grade 12 physics term project(2018). At the time of writing this almost all of the code for this project has not yet been found. Below is some information and images of the completed project
 
-Summary: 
+### Summary: 
 This project involves the use of an arduino nano packed tightly into a rocket with the goal of using RF transceivers to transmit live GPS and altitude data from the rocket to a ground station. As well as be able to control 4 small brushed motors with propellors mounted on the rocket to control descent and deploy a camera on the rocket using a servo motor to capture footage of the descent. 
 
 This was accomplished mainly using easily available breakout boards for everything from RF serial communication to GPS data collection. These modules were interfaced with an arduino using SPC or I2C serial protocols depending on what was easily implementable for each breakout board. This project was completed in my free time in a couple months while attending high school which is a testament to the ease of use and abundance of helpful documentation and libraries within the Arduino ecosystem.
 
-Footage of succesful telemetry communication using a python script to display results live:
+### Footage of succesful telemetry communication using a python script to display results live:
 
 ![](telemetry.gif)
 
 ![](launch.gif)	
 
-GPS data plotted in google earth
+### GPS data plotted in google earth
 
 ![gpsdata](gpsdata.gif)	
 
